@@ -27,7 +27,7 @@ int main(void)
     {
         printf("Grade %i\n", grade);
     }
-}///
+}
 
 //counting the letters
 int count_letters(string text)
